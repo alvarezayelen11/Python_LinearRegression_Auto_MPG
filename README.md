@@ -36,6 +36,7 @@ Comparamos la performance de los modelos usando el **Mean Squared Error (MSE)** 
 ## Conclusiones
 
 El proyecto muestra que la regresión lineal múltiple mejora la precisión de la predicción en comparación con los modelos de regresión simple. Se observa que características como weight, displacement y horsepower son predictores significativos del consumo de combustible.
+
 ## Authors
 
 - [@alvarezayelen11](https://github.com/alvarezayelen11)
