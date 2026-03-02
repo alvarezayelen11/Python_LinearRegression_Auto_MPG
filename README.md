@@ -92,11 +92,11 @@ Comparamos la performance de los modelos usando el **Mean Squared Error (MSE)** 
 
 ### Correlation Matrix
 
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](IMAGES/correlation_matrix.png)
 
 ### Actual vs Predicted MPG
 
-![Weight vs MPG](images/predicted_vs_real_values.png)
+![Weight vs MPG](IMAGES/predicted_vs_real_values.png)
 
 
 ## Resultados
